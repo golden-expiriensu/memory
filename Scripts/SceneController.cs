@@ -4,7 +4,6 @@ using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
-    [SerializeField] Score _score;
     [SerializeField] CardDealer _dealer;
     [SerializeField] CardsCreator _cardsCreator;
 
@@ -53,13 +52,13 @@ public class SceneController : MonoBehaviour
     {
         if (_firstRevealed.Id == _secondRevealed.Id)
         {
-            _score.AddScore();
+            Score.Instance.AddScore();
         }
         else
         {
             CanReveal = false;
             yield return new WaitForSeconds(_cardShowingTime);
-            _score.AddMistake();
+            Score.Instance.AddMistake();
             CanReveal = true;
 
             _firstRevealed.Unreveal();
