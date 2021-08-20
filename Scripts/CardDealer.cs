@@ -42,11 +42,11 @@ public class CardDealer : MonoBehaviour
     {
         float cardsScaleFactor = 1f;
 
-        float width = Screen.currentResolution.width / 100f;
+        float width = Screen.width / 100f;
         float xStep = width / cols;
-        float height = (Screen.currentResolution.height - _uIField.rect.height) / 100f;
+        float height = (Screen.height - _uIField.rect.height) / 100f;
         float yStep = height / rows;
-
+        
         if (yStep < _cardSize.y * cardsScaleFactor)
         {
             cardsScaleFactor = yStep / (_cardSize.y + _offset.y);
@@ -55,8 +55,8 @@ public class CardDealer : MonoBehaviour
         {
             cardsScaleFactor = xStep / (_cardSize.x + _offset.x);
         }
-        _startOffset.x = (Screen.currentResolution.width / 100f - _cardSize.x * cardsScaleFactor * cols - _offset.x * (cols - 1)) / 2f;
-        _startOffset.y = (Screen.currentResolution.height / 100f - _cardSize.y * cardsScaleFactor * rows - _offset.y * (rows - 1) - _uIField.rect.height / 100f) / 2f;
+        _startOffset.x = (Screen.width / 100f - _cardSize.x * cardsScaleFactor * cols - _offset.x * (cols - 1)) / 2f;
+        _startOffset.y = (Screen.height / 100f - _cardSize.y * cardsScaleFactor * rows - _offset.y * (rows - 1) - _uIField.rect.height / 200f) / 2f;
 
         return cardsScaleFactor;
     }
@@ -69,8 +69,8 @@ public class CardDealer : MonoBehaviour
         for (int i = 0; i < cols; i++)
             for (int j = 0; j < rows; j++)
             {
-                float posX = _startOffset.x + (_offset.x * i) + (_cardSize.x * cardsScaleFactor * i) - Screen.currentResolution.width / 200f;
-                float posY = _startOffset.y + (_offset.y * j) + (_cardSize.y * cardsScaleFactor * j) - Screen.currentResolution.height / 200f;
+                float posX = _startOffset.x + (_offset.x * i) + (_cardSize.x * cardsScaleFactor * i) - Screen.width / 200f;
+                float posY = _startOffset.y + (_offset.y * j) + (_cardSize.y * cardsScaleFactor * j) - Screen.height / 200f;
                 cards[cardNumber].transform.position = new Vector3(posX, posY, z);
                 cardNumber++;
             }

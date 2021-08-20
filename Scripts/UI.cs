@@ -5,7 +5,13 @@ public class UI : MonoBehaviour
 {
     [SerializeField] TMP_Text _scoreLabel;
     [SerializeField] TMP_Text _mistakeLabel;
+    [SerializeField] Camera _camera;
 
+
+    private void Awake()
+    {
+        _camera.orthographicSize = Screen.currentResolution.height / 2f / 100f;
+    }
     private void Start()
     {
         Score.Instance.SetUI(this);

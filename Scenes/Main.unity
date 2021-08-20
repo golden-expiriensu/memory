@@ -1561,7 +1561,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.25
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -1626,6 +1626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _scoreLabel: {fileID: 1861384215}
   _mistakeLabel: {fileID: 859198738}
+  _camera: {fileID: 519420031}
 --- !u!1 &1309390424
 GameObject:
   m_ObjectHideFlags: 0

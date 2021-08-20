@@ -14,8 +14,6 @@ public class SceneController : MonoBehaviour
 
     private void Start()
     {
-        Screen.orientation = ScreenOrientation.Landscape;
-
         InitializeGame();
 
         CardsAmountController.Instance.SetDropdownCardsAmountValue();
