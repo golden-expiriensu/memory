@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: c8e4d53955ed8dc4084cb87d0ce41078
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4551003529861094082
+    second: vizago_0
+  - first:
+      213: -3543341092258073359
+    second: vizago_1
+  - first:
+      213: 3415092401107177803
+    second: vizago_2
+  - first:
+      213: -8205970560542280566
+    second: vizago_3
+  - first:
+      213: 4531069524079885945
+    second: vizago_4
+  - first:
+      213: 9126044676416084063
+    second: vizago_5
+  - first:
+      213: -671689617943912096
+    second: vizago_6
+  - first:
+      213: 1644499734616229328
+    second: vizago_7
+  - first:
+      213: 586080740889756977
+    second: vizago_8
+  - first:
+      213: -8837446755682198827
+    second: vizago_9
+  - first:
+      213: 7979560523112299057
+    second: vizago_10
+  - first:
+      213: 4011447466231030440
+    second: vizago_11
+  - first:
+      213: -7493262222957082268
+    second: vizago_12
+  - first:
+      213: 2926828439203787203
+    second: vizago_13
+  - first:
+      213: 254186160640958217
+    second: vizago_14
+  - first:
+      213: 1774680601370120455
+    second: vizago_15
+  - first:
+      213: 4611481954679658215
+    second: vizago_16
+  - first:
+      213: 7793367378244058320
+    second: vizago_17
+  - first:
+      213: 7137704057564010377
+    second: vizago_18
+  - first:
+      213: -2212980895995325088
+    second: vizago_19
+  - first:
+      213: 2105377867623678614
+    second: vizago_20
+  - first:
+      213: 45492793639132032
+    second: vizago_21
+  - first:
+      213: 585046079318888403
+    second: vizago_22
+  - first:
+      213: -3866088600084429307
+    second: vizago_23
+  - first:
+      213: 7687128833595704496
+    second: vizago_24
+  - first:
+      213: -4504256305189099478
+    second: vizago_25
+  - first:
+      213: 5085754111825394568
+    second: vizago_26
+  - first:
+      213: 285323620649448260
+    second: vizago_27
+  - first:
+      213: -5733046129584749235
+    second: vizago_28
+  - first:
+      213: 3650541218942850982
+    second: vizago_29
+  - first:
+      213: -6678788817073306349
+    second: vizago_30
+  - first:
+      213: 5104187891653332674
+    second: vizago_31
+  - first:
+      213: -4819852558806870466
+    second: vizago_32
+  - first:
+      213: -2789256002897892968
+    second: vizago_33
+  - first:
+      213: -7328183116450627774
+    second: vizago_34
+  - first:
+      213: -6299767275116707817
+    second: vizago_35
+  - first:
+      213: -1412596983065667664
+    second: vizago_36
+  - first:
+      213: -3684049215257508182
+    second: vizago_37
+  - first:
+      213: -7012219222278421458
+    second: vizago_38
+  - first:
+      213: -2355780670902075195
+    second: vizago_39
+  - first:
+      213: 4842919739413884609
+    second: vizago_40
+  - first:
+      213: -3744558943263164821
+    second: vizago_41
+  - first:
+      213: 5231257069271821628
+    second: vizago_42
+  - first:
+      213: -6994457267159446466
+    second: vizago_43
+  - first:
+      213: 6108681640137375078
+    second: vizago_44
+  - first:
+      213: 3231340884726716546
+    second: vizago_45
+  - first:
+      213: 7880515594710828940
+    second: vizago_46
+  - first:
+      213: 7831620172065178569
+    second: vizago_47
+  - first:
+      213: -426255774938645202
+    second: vizago_48
+  - first:
+      213: 6024355271386137018
+    second: vizago_49
+  - first:
+      213: -2383816429326737929
+    second: vizago_50
+  - first:
+      213: -5091140717317291140
+    second: vizago_51
+  - first:
+      213: 8532660867083480252
+    second: vizago_52
+  - first:
+      213: -5830478256022673392
+    second: vizago_53
+  - first:
+      213: 3096990121066125945
+    second: vizago_54
+  - first:
+      213: -8631061293511237691
+    second: vizago_55
+  - first:
+      213: -5069042729913401560
+    second: vizago_56
+  - first:
+      213: -6523610221698311819
+    second: vizago_57
+  - first:
+      213: 5299880756442810769
+    second: vizago_58
+  - first:
+      213: 7482811330234053749
+    second: vizago_59
+  - first:
+      213: 445285978282756905
+    second: vizago_60
+  - first:
+      213: 654574385712803919
+    second: vizago_61
+  - first:
+      213: 1535610796193855014
+    second: vizago_62
+  - first:
+      213: 7544383436161492041
+    second: vizago_63
+  - first:
+      213: -4961929953104431649
+    second: vizago_64
+  - first:
+      213: -4365493446638021356
+    second: vizago_65
+  - first:
+      213: -3663101915946179782
+    second: vizago_66
+  - first:
+      213: 7579594242912475829
+    second: vizago_67
+  - first:
+      213: -2334902819883377430
+    second: vizago_68
+  - first:
+      213: 6653799411911257922
+    second: vizago_69
+  - first:
+      213: 5342845956131108493
+    second: vizago_70
+  - first:
+      213: 4606187746687623838
+    second: vizago_71
+  - first:
+      213: 3070540908751587293
+    second: vizago_72
+  - first:
+      213: 2685573316007430700
+    second: vizago_73
+  - first:
+      213: 4861499963202289149
+    second: vizago_74
+  - first:
+      213: 7869834713236707089
+    second: vizago_75
+  - first:
+      213: -6005081272031967793
+    second: vizago_76
+  - first:
+      213: 7490549160053679922
+    second: vizago_77
+  - first:
+      213: -2750613384535382007
+    second: vizago_78
+  - first:
+      213: -739211593932044996
+    second: vizago_79
+  - first:
+      213: -343480730019208592
+    second: vizago_80
+  - first:
+      213: 6928507697338521590
+    second: vizago_81
+  - first:
+      213: 2609066527521034273
+    second: vizago_82
+  - first:
+      213: -7136546861620966423
+    second: vizago_83
+  - first:
+      213: -8220622489952915560
+    second: vizago_84
+  - first:
+      213: 1336100474052520863
+    second: vizago_85
+  - first:
+      213: -2219051304850962188
+    second: vizago_86
+  - first:
+      213: -8987933053584657830
+    second: vizago_87
+  - first:
+      213: 485032913139490974
+    second: vizago_88
+  - first:
+      213: 3931190744099811858
+    second: vizago_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vizago_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1701
+        width: 268
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a22be9ddada6f0800000000000000
+      internalID: -671689617943912096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1703
+        width: 267
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1358e62245d222800800000000000000
+      internalID: 586080740889756977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1708
+        width: 267
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da522e9ff41b5580800000000000000
+      internalID: -8837446755682198827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_12
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1704
+        width: 260
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690acf85b5920890800000000000000
+      internalID: -7493262222957082268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1288
+        width: 268
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98797fee5083e0360800000000000000
+      internalID: 7137704057564010377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1292
+        width: 267
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06519779999e941e0800000000000000
+      internalID: -2212980895995325088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1291
+        width: 268
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692cdad040ec73d10800000000000000
+      internalID: 2105377867623678614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_23
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1290
+        width: 265
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c7c1d6e4e85ac0800000000000000
+      internalID: -3866088600084429307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 871
+        width: 266
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361f8a62a17c1db0800000000000000
+      internalID: -4819852558806870466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 871
+        width: 263
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89925a781729a49d0800000000000000
+      internalID: -2789256002897892968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 871
+        width: 264
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff1fe28401d4a90800000000000000
+      internalID: -7328183116450627774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_37
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 871
+        width: 261
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa60585f1c0afdcc0800000000000000
+      internalID: -3684049215257508182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 462
+        width: 275
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd5d38669bfaeed0800000000000000
+      internalID: -2383816429326737929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 460
+        width: 265
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7386cadd72a859b0800000000000000
+      internalID: -5091140717317291140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_52
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 461
+        width: 270
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2363c9d91a6670800000000000000
+      internalID: 8532660867083480252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_56
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 460
+        width: 255
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f3c3c7e7427a9b0800000000000000
+      internalID: -5069042729913401560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 253
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403b7b8fe3851900800000000000000
+      internalID: 654574385712803919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vizago_63
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 18
+        width: 251
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9442fb963c803b860800000000000000
+      internalID: 7544383436161492041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

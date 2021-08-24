@@ -1,0 +1,1418 @@
+fileFormatVersion: 2
+guid: fa9011768ad0af64ab7aea19f80102d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2873543031750132861
+    second: pulp_pinup_0
+  - first:
+      213: 4289269486266567181
+    second: pulp_pinup_1
+  - first:
+      213: -7833875707659157145
+    second: pulp_pinup_2
+  - first:
+      213: -3310449214387016304
+    second: pulp_pinup_3
+  - first:
+      213: -5119638701942664857
+    second: pulp_pinup_4
+  - first:
+      213: 893587074823441397
+    second: pulp_pinup_5
+  - first:
+      213: -5537116926759256844
+    second: pulp_pinup_6
+  - first:
+      213: 3647036705352982376
+    second: pulp_pinup_7
+  - first:
+      213: 2052140755421785946
+    second: pulp_pinup_8
+  - first:
+      213: -8396539787544033520
+    second: pulp_pinup_9
+  - first:
+      213: -4709381838982881882
+    second: pulp_pinup_10
+  - first:
+      213: -768331578249041131
+    second: pulp_pinup_11
+  - first:
+      213: 2212092837756529135
+    second: pulp_pinup_12
+  - first:
+      213: -1881805017631812100
+    second: pulp_pinup_13
+  - first:
+      213: -6570906794497874237
+    second: pulp_pinup_14
+  - first:
+      213: -1824278824253116440
+    second: pulp_pinup_15
+  - first:
+      213: -8344087450306146643
+    second: pulp_pinup_16
+  - first:
+      213: 3744760740832919694
+    second: pulp_pinup_17
+  - first:
+      213: 4440352312579498586
+    second: pulp_pinup_18
+  - first:
+      213: -1574033718349945564
+    second: pulp_pinup_19
+  - first:
+      213: -4717647572269490523
+    second: pulp_pinup_20
+  - first:
+      213: -4059378957307851386
+    second: pulp_pinup_21
+  - first:
+      213: 8873360982766130719
+    second: pulp_pinup_22
+  - first:
+      213: -5497536233605566874
+    second: pulp_pinup_23
+  - first:
+      213: -1220578906280948983
+    second: pulp_pinup_24
+  - first:
+      213: 1470844520426597684
+    second: pulp_pinup_25
+  - first:
+      213: 6672870154182795630
+    second: pulp_pinup_26
+  - first:
+      213: 6169651140711306034
+    second: pulp_pinup_27
+  - first:
+      213: 696151072514037962
+    second: pulp_pinup_28
+  - first:
+      213: -6708540673889310293
+    second: pulp_pinup_29
+  - first:
+      213: -8156276450030977353
+    second: pulp_pinup_30
+  - first:
+      213: 5811929583340196838
+    second: pulp_pinup_31
+  - first:
+      213: -2668416675889239473
+    second: pulp_pinup_32
+  - first:
+      213: 9082613325010809293
+    second: pulp_pinup_33
+  - first:
+      213: 717863991070871421
+    second: pulp_pinup_34
+  - first:
+      213: -4804317339621318606
+    second: pulp_pinup_35
+  - first:
+      213: 6244086121043236334
+    second: pulp_pinup_36
+  - first:
+      213: 786854250065535593
+    second: pulp_pinup_37
+  - first:
+      213: 821610827777062916
+    second: pulp_pinup_38
+  - first:
+      213: 5179561154691946780
+    second: pulp_pinup_39
+  - first:
+      213: -7684989411922930068
+    second: pulp_pinup_40
+  - first:
+      213: 5686030335862967867
+    second: pulp_pinup_41
+  - first:
+      213: -6116212727792467738
+    second: pulp_pinup_42
+  - first:
+      213: -1410400507709163491
+    second: pulp_pinup_43
+  - first:
+      213: 2021047111934669477
+    second: pulp_pinup_44
+  - first:
+      213: -25568081514176991
+    second: pulp_pinup_45
+  - first:
+      213: 1157183688272479752
+    second: pulp_pinup_46
+  - first:
+      213: -902088423250583371
+    second: pulp_pinup_47
+  - first:
+      213: -8176460592984443073
+    second: pulp_pinup_48
+  - first:
+      213: 3832858480078994506
+    second: pulp_pinup_49
+  - first:
+      213: 5540740202796632255
+    second: pulp_pinup_50
+  - first:
+      213: -6065631451406652265
+    second: pulp_pinup_51
+  - first:
+      213: -5104343337926508965
+    second: pulp_pinup_52
+  - first:
+      213: 1692005935666160652
+    second: pulp_pinup_53
+  - first:
+      213: -3329890795003610303
+    second: pulp_pinup_54
+  - first:
+      213: -3132741162055011591
+    second: pulp_pinup_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pulp_pinup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5390.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bfbb956df1f18d0800000000000000
+      internalID: -2873543031750132861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5390
+        width: 300
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a47da4fdb868b30800000000000000
+      internalID: 4289269486266567181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5390.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7610a6eac8b784390800000000000000
+      internalID: -7833875707659157145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5389
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dad71aafbee02d0800000000000000
+      internalID: -3310449214387016304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4976.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7619d50c9b363f8b0800000000000000
+      internalID: -5119638701942664857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4976
+        width: 300
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb4bbac5b8a66c00800000000000000
+      internalID: 893587074823441397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4976.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc36b4fd753823b0800000000000000
+      internalID: -5537116926759256844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4976.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f10698f80ec9230800000000000000
+      internalID: 3647036705352982376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4562.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6404f42baa7c10800000000000000
+      internalID: 2052140755421785946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4562
+        width: 300
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017010dcc8f797b80800000000000000
+      internalID: -8396539787544033520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4562.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6addfb73b2ae4aeb0800000000000000
+      internalID: -4709381838982881882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4562.357
+        width: 300
+        height: 414.64285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b20c810865655f0800000000000000
+      internalID: -768331578249041131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4135
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e9ac37bee2be10800000000000000
+      internalID: 2212092837756529135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4139
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf512838e4c72e5e0800000000000000
+      internalID: -1881805017631812100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4142
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e0c5a5137fc4a0800000000000000
+      internalID: -6570906794497874237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4143
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef2025231cdea6e0800000000000000
+      internalID: -1824278824253116440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3726
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae05bd3ca8d33c80800000000000000
+      internalID: -8344087450306146643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3722
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80cc2e9d0018f330800000000000000
+      internalID: 3744760740832919694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3722
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52a2ecf6ec4f9d30800000000000000
+      internalID: 4440352312579498586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3722
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a3493ca8e72ae0800000000000000
+      internalID: -1574033718349945564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3305
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9467378c878eb0800000000000000
+      internalID: -4717647572269490523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3305
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d48f888503aa7c0800000000000000
+      internalID: -4059378957307851386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3304
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16169dfcc2842b70800000000000000
+      internalID: 8873360982766130719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3306
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee9183ce3d4b3b0800000000000000
+      internalID: -5497536233605566874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2889
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b0ace93f1af0fe0800000000000000
+      internalID: -1220578906280948983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2888
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d6bd76c4d796410800000000000000
+      internalID: 1470844520426597684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2890
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e612f540d0cca9c50800000000000000
+      internalID: 6672870154182795630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2890
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2335e2636010f9550800000000000000
+      internalID: 6169651140711306034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2475
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d43b46b939a900800000000000000
+      internalID: 696151072514037962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2475
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9619becc976e2a0800000000000000
+      internalID: -6708540673889310293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2475
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef40258c51fce80800000000000000
+      internalID: -8156276450030977353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2475
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e39392c92f18a050800000000000000
+      internalID: 5811929583340196838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2065
+        width: 300
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa4e0db21e7fad0800000000000000
+      internalID: -2668416675889239473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2066
+        width: 300
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bf7582bceb0e70800000000000000
+      internalID: 9082613325010809293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2065
+        width: 300
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fc2d81f7d56f900800000000000000
+      internalID: 717863991070871421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2063
+        width: 300
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2302f9f75d2a35db0800000000000000
+      internalID: -4804317339621318606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1647
+        width: 300
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee59ab79e3377a650800000000000000
+      internalID: 6244086121043236334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1647
+        width: 300
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a92185c77bea00800000000000000
+      internalID: 786854250065535593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1647
+        width: 300
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408344dd1b2f66b00800000000000000
+      internalID: 821610827777062916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1647
+        width: 300
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1953dd7d6f71e740800000000000000
+      internalID: 5179561154691946780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1233
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6612bfb8de695590800000000000000
+      internalID: -7684989411922930068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1233
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e053fe676d8ee40800000000000000
+      internalID: 5686030335862967867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1233
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0053ddde8de1ba0800000000000000
+      internalID: -6116212727792467738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1233
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f6faf5304d6ce0800000000000000
+      internalID: -1410400507709163491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 300
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f13de3a33c0c10800000000000000
+      internalID: 2021047111934669477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 825
+        width: 300
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e52cf17f925aff0800000000000000
+      internalID: -25568081514176991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 825
+        width: 300
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068b57fe642f0010800000000000000
+      internalID: 1157183688272479752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 823
+        width: 300
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02828cb532b73f0800000000000000
+      internalID: -902088423250583371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 300
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37be235960678e80800000000000000
+      internalID: -8176460592984443073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 409
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb373fa7c013530800000000000000
+      internalID: 3832858480078994506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_50
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 409
+        width: 300
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84b6cbbd9a4ec40800000000000000
+      internalID: 5540740202796632255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 410
+        width: 300
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2870055c82dba0800000000000000
+      internalID: -6065631451406652265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e324337cab929b0800000000000000
+      internalID: -5104343337926508965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pulp_pinup_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04eb311f663b7710800000000000000
+      internalID: 1692005935666160652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
