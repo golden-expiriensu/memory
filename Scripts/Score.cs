@@ -22,9 +22,9 @@ public class Score : MonoBehaviour
     public int Guessed { get; private set; } = 0;
     public int Mistakes { get; private set; } = 0;
 
-    UI _ui;
+    GameUI _ui;
 
-    public void SetUI(UI ui)
+    public void SetUI(GameUI ui)
     {
         _ui = ui;
     }

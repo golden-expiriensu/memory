@@ -10,10 +10,10 @@ public class CardDealer : MonoBehaviour
     Dictionary<int, Vector2Int> _distributionColomnRow = new Dictionary<int, Vector2Int>
     {
         {8, new Vector2Int(4, 2) },
-        {12, new Vector2Int(4, 3) },
-        {15, new Vector2Int(5, 3) },
-        {24, new Vector2Int(6, 4) },
-        {32, new Vector2Int(8, 4) },
+        {12, new Vector2Int(6, 2) },
+        {18, new Vector2Int(6, 3) },
+        {24, new Vector2Int(8, 3) },
+        {30, new Vector2Int(10, 3) },
     };
     Vector2 _startOffset = Vector2.zero;
     Vector2 _offset = new Vector2(.2f, .1f);

@@ -2,8 +2,9 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneController : MonoBehaviour
+public class GameController : MonoBehaviour
 {
+    [SerializeField] GameUI _uI;
     [SerializeField] CardDealer _dealer;
     [SerializeField] CardsCreator _cardsCreator;
 
@@ -15,9 +16,9 @@ public class SceneController : MonoBehaviour
     private void Start()
     {
         InitializeGame();
-
-        CardsAmountController.Instance.SetDropdownCardsAmountValue();
+        _uI.OnMenuChangecActiveStatus += MenuChangeActiveStatus;
     }
+    private void MenuChangeActiveStatus(bool status) => CanReveal = !status; // TODO: stinks
 
     private void InitializeGame()
     {

@@ -34,11 +34,14 @@ public class CardsAmountController : MonoBehaviour
             case 12:
                 value = 1;
                 break;
-            case 24:
+            case 18:
                 value = 2;
                 break;
-            case 32:
+            case 24:
                 value = 3;
+                break;
+            case 30:
+                value = 4;
                 break;
         }
 
@@ -58,14 +61,17 @@ public class CardsAmountController : MonoBehaviour
                 Amount = 12;
                 break;
             case 2:
-                Amount = 24;
+                Amount = 18;
                 break;
             case 3:
-                Amount = 32;
+                Amount = 24;
+                break;
+            case 4:
+                Amount = 30;
                 break;
         }
 
-        FindObjectOfType<SceneController>().Restart();
+        FindObjectOfType<GameController>().Restart();
     }
 
 }

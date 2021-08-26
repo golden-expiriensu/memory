@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2332509477133920089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5021018316311845806}
+  - component: {fileID: 4007161669329146763}
+  m_Layer: 0
+  m_Name: Fingi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5021018316311845806
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332509477133920089}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.020352, y: 1.7155473, z: 7.437744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4007161669329146763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332509477133920089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53231c086d9d3ac47aae37872222a07b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _name: Fingi
+  _nameInDB: 3
+  _deckPreview:
+  - {fileID: 21300000, guid: bcd1c64ea655069409e5e668a9e70889, type: 3}
+  - {fileID: 6840045637711863743, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 977636162072271925, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 2945885494950884926, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 7358758647003088221, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  _cardSprites:
+  - {fileID: -1493394863333945909, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 6840045637711863743, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 6224039738670515836, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 450948650041909577, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: -7047493004848813293, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: -9123654898320548846, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 6839000104541271657, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 977636162072271925, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: -2575948233263038382, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 8805165114519470988, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: -3169311345276289104, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 2945885494950884926, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: -72342419620131313, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 7358758647003088221, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: -1998462162010527120, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  - {fileID: 9125267154628624194, guid: af9704947e73e6543aa8130055445f70, type: 3}
+  _cardBack: {fileID: 21300000, guid: bcd1c64ea655069409e5e668a9e70889, type: 3}
+  _needWhiteBackground: 0
+  _gameFieldBackGroundColor: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 1}
