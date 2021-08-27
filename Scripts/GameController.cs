@@ -29,7 +29,7 @@ public class GameController : MonoBehaviour
         {
             foreach (Card card in cards)
             {
-                card.transform.localScale = new Vector3(cardScale, cardScale, cardScale);
+                card.rectTransform.localScale = new Vector3(cardScale, cardScale, cardScale);
             }
         }
     }

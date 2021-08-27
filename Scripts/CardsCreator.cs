@@ -49,7 +49,7 @@ public class CardsCreator : MonoBehaviour
 
         for (int i = 1; i < _cardsCount; i++)
         {
-            cards[i] = Instantiate(_cardOriginal);
+            cards[i] = Instantiate(_cardOriginal, _cardOriginal.transform.parent);
         }
 
         return cards;

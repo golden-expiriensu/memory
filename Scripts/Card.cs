@@ -1,12 +1,16 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class Card : MonoBehaviour
 {
-    [SerializeField] BoxCollider2D _cardCollider;
+    [SerializeField] RectTransform _rectTransform;
+    public RectTransform rectTransform { get { return _rectTransform; } }
+
+    [SerializeField] Image _nativeSize;
     [SerializeField] GameController _sceneController;
-    [SerializeField] SpriteRenderer _face;
-    [SerializeField] SpriteRenderer _back;
-    [SerializeField] SpriteRenderer _whiteBackground;
+    [SerializeField] Image _face;
+    [SerializeField] Image _back;
+    [SerializeField] Image _whiteBackground;
     bool _hasWhiteBackground = false;
     readonly float _faceWithWhiteBackgroundScaleFactor = .9f;
     bool _revealed = false;
@@ -22,6 +26,15 @@ public class Card : MonoBehaviour
             InitWhiteBackground();
 
         Id = id;
+    }
+
+    public void Click()
+    {
+        if (_sceneController.CanReveal && !_revealed)
+        {
+            Reveal();
+            _sceneController.RevealCard(this);
+        }
     }
 
     public void Unreveal()
@@ -42,15 +55,6 @@ public class Card : MonoBehaviour
         if (_hasWhiteBackground) _whiteBackground.gameObject.SetActive(true);
 
         _revealed = true;
-    }
-
-    private void OnMouseDown()
-    {
-        if (_sceneController.CanReveal && !_revealed)
-        {
-            Reveal();
-            _sceneController.RevealCard(this);
-        }
     }
 
     private void InitFace(Sprite face, bool needWhiteBackground)
@@ -76,12 +80,12 @@ public class Card : MonoBehaviour
         _whiteBackground.transform.localScale = new Vector3(s, s, s);
     }
 
-    private float CalculateScaleFactor(SpriteRenderer sprite)
+    private float CalculateScaleFactor(Image sprite)
     {
-        float W = sprite.size.x;
-        float H = sprite.size.y;
-        float ScaleXfactor = _cardCollider.size.x / W;
-        float ScaleYfactor = _cardCollider.size.y / H;
+        float W = sprite.rectTransform.rect.width;
+        float H = sprite.rectTransform.rect.height;
+        float ScaleXfactor = _nativeSize.rectTransform.rect.width / W;
+        float ScaleYfactor = _nativeSize.rectTransform.rect.height / H;
         float ScaleFactor = ScaleXfactor > ScaleYfactor ? ScaleYfactor : ScaleXfactor;
         return ScaleFactor;
     }
