@@ -16,21 +16,23 @@ public class GameController : MonoBehaviour
     private void Start()
     {
         InitializeGame();
-        _uI.OnMenuChangecActiveStatus += MenuChangeActiveStatus;
     }
-    private void MenuChangeActiveStatus(bool status) => CanReveal = !status; // TODO: stinks
 
     private void InitializeGame()
     {
         Card[] cards = _cardsCreator.Create();
-
         float cardScale = _dealer.DealCards(cards);
-        if (cardScale != 1f)
+        ScaleCards(cards, cardScale);
+    }
+
+    private static void ScaleCards(Card[] cards, float cardScale)
+    {
+        if (cardScale == 1f)
+            return;
+
+        foreach (Card card in cards)
         {
-            foreach (Card card in cards)
-            {
-                card.rectTransform.localScale = new Vector3(cardScale, cardScale, cardScale);
-            }
+            card.rectTransform.localScale = new Vector3(cardScale, cardScale, cardScale);
         }
     }
 

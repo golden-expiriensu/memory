@@ -13,6 +13,7 @@ public class CardsCreator : MonoBehaviour
     public Card[] Create()
     {
         SetDeckSkin();
+
         Card[] cards = CreateCards();
         Sprite[] sprites = RandomizeSprites();
         int[] ids = _idArrayCreator.Create(_cardsCount);

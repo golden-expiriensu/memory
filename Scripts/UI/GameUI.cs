@@ -9,8 +9,6 @@ public class GameUI : UI
     [SerializeField] TMP_Text _mistakeLabel;
     [SerializeField] GameObject _menu;
     public bool MenuOpen { get; private set; } = false;
-    public delegate void MenuChangeActiveStatus(bool status);
-    public event MenuChangeActiveStatus OnMenuChangecActiveStatus;
 
 
     private void Start()
@@ -36,7 +34,6 @@ public class GameUI : UI
     {
         MenuOpen = !MenuOpen;
         _menu.SetActive(MenuOpen);
-        OnMenuChangecActiveStatus?.Invoke(MenuOpen);
     }
 
     public void SkinStore()
