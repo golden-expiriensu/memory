@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 97b0c00bfe4db6b408258c1c3fdb4288
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -975623267512997192
+    second: greek_mythology_0
+  - first:
+      213: 2384853174203180700
+    second: greek_mythology_1
+  - first:
+      213: 2109853997739645164
+    second: greek_mythology_2
+  - first:
+      213: 6841883414993477127
+    second: greek_mythology_3
+  - first:
+      213: -5822434028956089299
+    second: greek_mythology_4
+  - first:
+      213: 1489589857836463725
+    second: greek_mythology_5
+  - first:
+      213: 2726839710362515693
+    second: greek_mythology_6
+  - first:
+      213: -6811579365369551833
+    second: greek_mythology_7
+  - first:
+      213: -150988591463990089
+    second: greek_mythology_8
+  - first:
+      213: -5052431790995778740
+    second: greek_mythology_9
+  - first:
+      213: -4295011850155769661
+    second: greek_mythology_10
+  - first:
+      213: 5777502591887602919
+    second: greek_mythology_11
+  - first:
+      213: 8491097865437031650
+    second: greek_mythology_12
+  - first:
+      213: -6431243581047871334
+    second: greek_mythology_13
+  - first:
+      213: -1662076460583636572
+    second: greek_mythology_14
+  - first:
+      213: 512370639941616523
+    second: greek_mythology_15
+  - first:
+      213: 8235227746829259388
+    second: greek_mythology_16
+  - first:
+      213: 190733758789854791
+    second: greek_mythology_17
+  - first:
+      213: -5818512512435682672
+    second: greek_mythology_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greek_mythology_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1689
+        width: 280
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2849aec3e572f0800000000000000
+      internalID: -975623267512997192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1692
+        width: 283
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e7d19353b81120800000000000000
+      internalID: 2384853174203180700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1689
+        width: 284
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8953f4805b74d10800000000000000
+      internalID: 2109853997739645164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1682
+        width: 289
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e925157b043fe50800000000000000
+      internalID: 6841883414993477127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1267
+        width: 287
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240de7691f823fa0800000000000000
+      internalID: -5822434028956089299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1270
+        width: 285
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fd5165161ca410800000000000000
+      internalID: 1489589857836463725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1262
+        width: 286
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83697e44ea7d520800000000000000
+      internalID: 2726839710362515693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 847
+        width: 277
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf6a01da497edf0800000000000000
+      internalID: -150988591463990089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 845
+        width: 285
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435ec51e0822e9b0800000000000000
+      internalID: -5052431790995778740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 842
+        width: 292
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04f5d6a7d0564c0800000000000000
+      internalID: -4295011850155769661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 842
+        width: 268
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4fb5e2fffcd2050800000000000000
+      internalID: 5777502591887602919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 289
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca376558076d570800000000000000
+      internalID: 8491097865437031650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 288
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9861a78902afb6a0800000000000000
+      internalID: -6431243581047871334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 422
+        width: 287
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1bf51e34e1fe8e0800000000000000
+      internalID: -1662076460583636572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_15
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 427
+        width: 272
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b834f03e16e4c1700800000000000000
+      internalID: 512370639941616523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 284
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d23ee008694270800000000000000
+      internalID: 8235227746829259388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greek_mythology_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 285
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462853d75f95a200800000000000000
+      internalID: 190733758789854791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

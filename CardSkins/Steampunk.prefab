@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2332509477133920089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5021018316311845806}
+  - component: {fileID: 4007161669329146763}
+  m_Layer: 0
+  m_Name: Steampunk
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5021018316311845806
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332509477133920089}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.020352, y: 1.7155473, z: 7.437744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4007161669329146763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332509477133920089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53231c086d9d3ac47aae37872222a07b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _name: Steampunk
+  _skinName: 8
+  _deckPreview:
+  - {fileID: 21300000, guid: 300e1e978b8b20b4d8463b6a2d85343a, type: 3}
+  - {fileID: -5393231558329889504, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 2596751886753330164, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 3735684281538697696, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 1617262821285626150, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  _cardSprites:
+  - {fileID: 6294679923100964245, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 5833012211013498153, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 7617768415690511139, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: -5393231558329889504, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 4613436231717839500, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 3794459627079135907, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 7980280065981590108, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: -2099176714735857887, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 7793476199442611551, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: -3197687514704457712, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 2596751886753330164, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 6961455611686294891, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 1116472231667284142, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: -3228961077445020202, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 5518518879421907482, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 5899399997947680236, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: -5157217370371870220, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: -4318741233832725705, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 1617262821285626150, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 2097534263801253143, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  - {fileID: 3735684281538697696, guid: 98f3c82b3d24f8e4e936e7ba13b320aa, type: 3}
+  _cardBack: {fileID: 21300000, guid: 300e1e978b8b20b4d8463b6a2d85343a, type: 3}
+  _needWhiteBackground: 0
+  _gameFieldBackGroundColor: {r: 0.6313726, g: 0.1401849, b: 0.0627451, a: 1}

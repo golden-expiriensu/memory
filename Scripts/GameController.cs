@@ -11,7 +11,7 @@ public class GameController : MonoBehaviour
     public bool CanReveal { get; private set; } = true;
     Card _firstRevealed;
     Card _secondRevealed;
-    readonly float _cardShowingTime = .5f;
+    readonly float _cardShowingTime = 1f;
 
     private void Start()
     {

@@ -9,11 +9,14 @@ public class Card : MonoBehaviour
     [SerializeField] Image _nativeSize;
     [SerializeField] GameController _sceneController;
     [SerializeField] Image _face;
+    [SerializeField] RectTransform _faceRect;
     [SerializeField] Image _back;
+    [SerializeField] RectTransform _backRect;
     [SerializeField] Image _whiteBackground;
     bool _hasWhiteBackground = false;
     bool _revealed = false;
     public int Id { get; private set; }
+    [SerializeField] CardAnimation _cardAnimation;
 
     public void SetCard(Sprite face, Sprite back, int id, bool needWhiteBackground)
     {
@@ -38,21 +41,13 @@ public class Card : MonoBehaviour
 
     public void Unreveal()
     {
-        _back.gameObject.SetActive(true);
-
-        _face.gameObject.SetActive(false);
-        if (_hasWhiteBackground) _whiteBackground.gameObject.SetActive(false);
-
+        _cardAnimation.Flip(_backRect, _faceRect);
         _revealed = false;
     }
 
     private void Reveal()
     {
-        _back.gameObject.SetActive(false);
-
-        _face.gameObject.SetActive(true);
-        if (_hasWhiteBackground) _whiteBackground.gameObject.SetActive(true);
-
+        _cardAnimation.Flip(_faceRect, _backRect);
         _revealed = true;
     }
 

@@ -64,6 +64,8 @@ public abstract class DBManager : MonoBehaviour
             "Fingi INTEGER," +
             "MorandBail INTEGER," +
             "PortraitsLady INTEGER," +
+            "GreekMythology INTEGER," +
+            "Steampunk INTEGER," +
             "Vizago INTEGER);";
 
         dbconn = new SqliteConnection(connection);
@@ -87,8 +89,8 @@ public abstract class DBManager : MonoBehaviour
         dbcmd.CommandText = query1;
         dbcmd.ExecuteNonQuery();
 
-        string query2 = "INSERT INTO skins(Current, Standart, Vector, PulpPinup, MorandBail, PortraitsLady, Fingi, Vizago)" +
-            "VALUES('Standart', 1, 0, 0, 0, 0, 0, 0);";
+        string query2 = "INSERT INTO skins(Current, Standart, Vector, PulpPinup, MorandBail, GreekMythology, Steampunk, PortraitsLady, Fingi, Vizago)" +
+            "VALUES('Standart', 1, 0, 0, 0, 0, 0, 0, 0, 0);";
         dbcmd.CommandText = query2;
 
         dbcmd.ExecuteNonQuery();
