@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: e8e53c2355883a34ab0d3c57a057e264
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6524429224477013627
+    second: morand_bail_0
+  - first:
+      213: -6958435768145783040
+    second: morand_bail_1
+  - first:
+      213: -1735028636951298471
+    second: morand_bail_2
+  - first:
+      213: -1597491412715365806
+    second: morand_bail_3
+  - first:
+      213: 3631578063476345567
+    second: morand_bail_4
+  - first:
+      213: 1472766507784799145
+    second: morand_bail_5
+  - first:
+      213: -5604437408279242754
+    second: morand_bail_6
+  - first:
+      213: 6217642700582185533
+    second: morand_bail_7
+  - first:
+      213: 5152843530023757008
+    second: morand_bail_8
+  - first:
+      213: -734853031129428838
+    second: morand_bail_9
+  - first:
+      213: 2260321066712810528
+    second: morand_bail_10
+  - first:
+      213: -2167763357962322223
+    second: morand_bail_11
+  - first:
+      213: 1460170815957800488
+    second: morand_bail_12
+  - first:
+      213: -1100773003426598237
+    second: morand_bail_13
+  - first:
+      213: 1102388428300272122
+    second: morand_bail_14
+  - first:
+      213: 2075123041205224855
+    second: morand_bail_15
+  - first:
+      213: -864508006647018718
+    second: morand_bail_16
+  - first:
+      213: 8161846906388603756
+    second: morand_bail_17
+  - first:
+      213: 3377563295873165605
+    second: morand_bail_18
+  - first:
+      213: -8764313817117801822
+    second: morand_bail_19
+  - first:
+      213: -2048278396540684746
+    second: morand_bail_20
+  - first:
+      213: 3703818073453039049
+    second: morand_bail_21
+  - first:
+      213: -3719746639636269451
+    second: morand_bail_22
+  - first:
+      213: -707116707178971283
+    second: morand_bail_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -97,7 +169,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: morand_bail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2297
+        width: 291
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76312fcfcd6b8a50800000000000000
+      internalID: 6524429224477013627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2296
+        width: 288
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0075c47498bae6f90800000000000000
+      internalID: -6958435768145783040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2295
+        width: 291
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e3363b5a0fbe7e0800000000000000
+      internalID: -1735028636951298471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2289
+        width: 296
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1d55260294d9e0800000000000000
+      internalID: -1597491412715365806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1833
+        width: 295
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdacb9ff105f56230800000000000000
+      internalID: 3631578063476345567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1840
+        width: 300
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a30b95f551507410800000000000000
+      internalID: 1472766507784799145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1835
+        width: 296
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7da99eed90932b0800000000000000
+      internalID: -5604437408279242754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1830
+        width: 296
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a608cf711894650800000000000000
+      internalID: 6217642700582185533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 291
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46c3eb3e3928740800000000000000
+      internalID: 5152843530023757008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1374
+        width: 285
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4965cf074dc5f0800000000000000
+      internalID: -734853031129428838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1374
+        width: 296
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cfb3d8064e5f10800000000000000
+      internalID: 2260321066712810528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1377
+        width: 296
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de3c8316be8ae1e0800000000000000
+      internalID: -2167763357962322223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 292
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269e8cee91934410800000000000000
+      internalID: 1460170815957800488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 916
+        width: 293
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2fa6819c449b0f0800000000000000
+      internalID: -1100773003426598237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 922
+        width: 300
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c6515f687c4f00800000000000000
+      internalID: 1102388428300272122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 926
+        width: 292
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795044859615ccc10800000000000000
+      internalID: 2075123041205224855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 293
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bc25e5c86a004f0800000000000000
+      internalID: -864508006647018718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 460
+        width: 297
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e96e9484b44170800000000000000
+      internalID: 8161846906388603756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 464
+        width: 287
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529eae82ce38fde20800000000000000
+      internalID: 3377563295873165605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 460
+        width: 295
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a245a6c407ee5680800000000000000
+      internalID: -8764313817117801822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 295
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f51d86ad0393e0800000000000000
+      internalID: -2048278396540684746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 279
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd07d40aea966330800000000000000
+      internalID: 3703818073453039049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 5
+        width: 280
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f60aa32ec06cc0800000000000000
+      internalID: -3719746639636269451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morand_bail_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2
+        width: 284
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f7adde911df26f0800000000000000
+      internalID: -707116707178971283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

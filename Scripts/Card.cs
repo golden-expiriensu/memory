@@ -12,13 +12,12 @@ public class Card : MonoBehaviour
     [SerializeField] Image _back;
     [SerializeField] Image _whiteBackground;
     bool _hasWhiteBackground = false;
-    readonly float _faceWithWhiteBackgroundScaleFactor = .9f;
     bool _revealed = false;
     public int Id { get; private set; }
 
     public void SetCard(Sprite face, Sprite back, int id, bool needWhiteBackground)
     {
-        InitFace(face, needWhiteBackground);
+        InitFace(face);
 
         InitBack(back);
 
@@ -57,12 +56,10 @@ public class Card : MonoBehaviour
         _revealed = true;
     }
 
-    private void InitFace(Sprite face, bool needWhiteBackground)
+    private void InitFace(Sprite face)
     {
         _face.sprite = face;
         float faceScaleFactor = CalculateScaleFactor(_face);
-        if (needWhiteBackground)
-            faceScaleFactor *= _faceWithWhiteBackgroundScaleFactor;
         _face.transform.localScale = new Vector3(faceScaleFactor, faceScaleFactor, faceScaleFactor);
     }
 

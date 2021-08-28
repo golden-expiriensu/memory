@@ -27,6 +27,8 @@ public class TableSkins : DBManager
         PulpPinup,
         Fingi,
         Vizago,
+        MorandBail,
+        PortraitsLady,
     }
     Dictionary<SkinName, string> _skinToDB = new Dictionary<SkinName, string>
     {
@@ -35,6 +37,8 @@ public class TableSkins : DBManager
         {SkinName.PulpPinup, "PulpPinup" },
         {SkinName.Fingi, "Fingi" },
         {SkinName.Vizago, "Vizago" },
+        {SkinName.MorandBail, "MorandBail" },
+        {SkinName.PortraitsLady, "PortraitsLady" },
     };
     Dictionary<string, SkinName> _DBToskin = new Dictionary<string, SkinName>
     {
@@ -43,6 +47,8 @@ public class TableSkins : DBManager
         { "PulpPinup", SkinName.PulpPinup},
         { "Fingi", SkinName.Fingi},
         { "Vizago", SkinName.Vizago},
+        { "MorandBail", SkinName.MorandBail},
+        { "PortraitsLady", SkinName.PortraitsLady},
     };
 
     public void UnlockSkin(SkinName name)

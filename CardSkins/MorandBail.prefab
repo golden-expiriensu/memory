@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2332509477133920089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5021018316311845806}
+  - component: {fileID: 4007161669329146763}
+  m_Layer: 0
+  m_Name: MorandBail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5021018316311845806
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332509477133920089}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.020352, y: 1.7155473, z: 7.437744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4007161669329146763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2332509477133920089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53231c086d9d3ac47aae37872222a07b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _name: Morand bail
+  _skinName: 5
+  _deckPreview:
+  - {fileID: 21300000, guid: 6603578e84d5c744aaa2f96e40dde0c8, type: 3}
+  - {fileID: 8161846906388603756, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 6217642700582185533, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 6524429224477013627, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -707116707178971283, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  _cardSprites:
+  - {fileID: 6524429224477013627, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -6958435768145783040, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -1735028636951298471, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -1597491412715365806, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 3631578063476345567, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 1472766507784799145, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -5604437408279242754, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 6217642700582185533, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 5152843530023757008, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -734853031129428838, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 2260321066712810528, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -2167763357962322223, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 1460170815957800488, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -1100773003426598237, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 1102388428300272122, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 2075123041205224855, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -864508006647018718, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 8161846906388603756, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 3377563295873165605, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -8764313817117801822, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -2048278396540684746, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: 3703818073453039049, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -3719746639636269451, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  - {fileID: -707116707178971283, guid: e8e53c2355883a34ab0d3c57a057e264, type: 3}
+  _cardBack: {fileID: 21300000, guid: 6603578e84d5c744aaa2f96e40dde0c8, type: 3}
+  _needWhiteBackground: 1
+  _gameFieldBackGroundColor: {r: 0.6, g: 0.4784314, b: 0.7411765, a: 1}

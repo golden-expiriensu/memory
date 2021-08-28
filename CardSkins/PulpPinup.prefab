@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _name: Pulp pinup
-  _nameInDB: 2
+  _skinName: 2
   _deckPreview:
   - {fileID: 21300000, guid: bf007bf300bd0814bba82cebdd88f9d1, type: 3}
   - {fileID: -7684989411922930068, guid: fa9011768ad0af64ab7aea19f80102d3, type: 3}

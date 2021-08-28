@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _name: Fingi
-  _nameInDB: 3
+  _skinName: 3
   _deckPreview:
   - {fileID: 21300000, guid: bcd1c64ea655069409e5e668a9e70889, type: 3}
   - {fileID: 6840045637711863743, guid: af9704947e73e6543aa8130055445f70, type: 3}

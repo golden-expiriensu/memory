@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _name: Vector
-  _nameInDB: 1
+  _skinName: 1
   _deckPreview:
   - {fileID: 7697271570029300153, guid: 027f233710ffdbf45a708e70b67c6992, type: 3}
   - {fileID: -3188648870281413916, guid: c55e0d06f263af5418dd637023dcae45, type: 3}

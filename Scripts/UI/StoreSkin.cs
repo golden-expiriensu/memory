@@ -10,7 +10,9 @@ public class StoreSkin : MonoBehaviour
     [SerializeField] TMPro.TMP_Text _name;
     [SerializeField] GameObject _unavailablePanel;
 
-    private void Awake()
+    public void SetCardSkin(CardSkin skin) => _skin = skin;
+
+    private void Start()
     {
         InitPreviews();
 
@@ -25,7 +27,7 @@ public class StoreSkin : MonoBehaviour
     private void InitNameAndFieldBackground()
     {
         _background.color = _skin.GameFieldBackgroundColor;
-        _name.text = $"{_skin.Description} deck";
+        _name.text = $"{_skin.Description} deck\n{_skin.CardSprites.Length} cards";
     }
 
     private void InitPreviews()

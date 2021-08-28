@@ -44,32 +44,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _name: Vizago
-  _nameInDB: 4
+  _skinName: 4
   _deckPreview:
   - {fileID: 21300000, guid: d2b257f03fc712b488b09945be372482, type: 3}
-  - {fileID: -671689617943912096, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -3866088600084429307, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -2789256002897892968, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: 654574385712803919, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: -4551003529861094082, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 1644499734616229328, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 586080740889756977, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 7793367378244058320, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   _cardSprites:
+  - {fileID: -4551003529861094082, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: -3543341092258073359, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 3415092401107177803, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: -8205970560542280566, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 4531069524079885945, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 9126044676416084063, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   - {fileID: -671689617943912096, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 1644499734616229328, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   - {fileID: 586080740889756977, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   - {fileID: -8837446755682198827, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 7979560523112299057, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 4011447466231030440, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   - {fileID: -7493262222957082268, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 2926828439203787203, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 254186160640958217, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 1774680601370120455, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
+  - {fileID: 7793367378244058320, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   - {fileID: 7137704057564010377, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -2212980895995325088, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: 2105377867623678614, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -3866088600084429307, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -4819852558806870466, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -2789256002897892968, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -7328183116450627774, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -3684049215257508182, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -2383816429326737929, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -5091140717317291140, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: 8532660867083480252, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: -5069042729913401560, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: 654574385712803919, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
-  - {fileID: 7544383436161492041, guid: c8e4d53955ed8dc4084cb87d0ce41078, type: 3}
   _cardBack: {fileID: 21300000, guid: d2b257f03fc712b488b09945be372482, type: 3}
   _needWhiteBackground: 1
   _gameFieldBackGroundColor: {r: 0.4156863, g: 0.121568635, b: 0.08627451, a: 1}

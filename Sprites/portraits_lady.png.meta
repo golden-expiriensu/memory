@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 88653361b6df23448a85a3c584d43d6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3320933610674324798
+    second: portraits_lady_0
+  - first:
+      213: -2008586808907214940
+    second: portraits_lady_1
+  - first:
+      213: 7122088516012844248
+    second: portraits_lady_2
+  - first:
+      213: -3909886278743833637
+    second: portraits_lady_3
+  - first:
+      213: -4337879276416610903
+    second: portraits_lady_4
+  - first:
+      213: -1608560775182091596
+    second: portraits_lady_5
+  - first:
+      213: -7510505343669524444
+    second: portraits_lady_6
+  - first:
+      213: -6118621210831238817
+    second: portraits_lady_7
+  - first:
+      213: -1208414686117105712
+    second: portraits_lady_8
+  - first:
+      213: -7227750267983930884
+    second: portraits_lady_9
+  - first:
+      213: -9024454209892044633
+    second: portraits_lady_10
+  - first:
+      213: -4930773452251350844
+    second: portraits_lady_11
+  - first:
+      213: -1400624080871231801
+    second: portraits_lady_12
+  - first:
+      213: -6063086584860187226
+    second: portraits_lady_13
+  - first:
+      213: -6228191727631860772
+    second: portraits_lady_14
+  - first:
+      213: 3641140626032455583
+    second: portraits_lady_15
+  - first:
+      213: 6398899077001631493
+    second: portraits_lady_16
+  - first:
+      213: 2592870966117313171
+    second: portraits_lady_17
+  - first:
+      213: -1681131371570177080
+    second: portraits_lady_18
+  - first:
+      213: 5697281594129241392
+    second: portraits_lady_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portraits_lady_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf915e97ca9e1d0800000000000000
+      internalID: -3320933610674324798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1806.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcc8270f01024e0800000000000000
+      internalID: -2008586808907214940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1806.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a5d755cdb6d260800000000000000
+      internalID: 7122088516012844248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1806.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3cc4b152b4db9c0800000000000000
+      internalID: -3909886278743833637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1355.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc8aaf7c1ccc3c0800000000000000
+      internalID: -4337879276416610903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1355.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf4ab5f7e3da9e0800000000000000
+      internalID: -1608560775182091596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1355.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428a7eaae2355c790800000000000000
+      internalID: -7510505343669524444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1355.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59cb353d6a461ba0800000000000000
+      internalID: -6118621210831238817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfef94de39da3fe0800000000000000
+      internalID: -1208414686117105712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 904.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9559fec6fd1bb90800000000000000
+      internalID: -7227750267983930884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 904.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03b9fa5b2b2c280800000000000000
+      internalID: -9024454209892044633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 904.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b1a66baf529bb0800000000000000
+      internalID: -4930773452251350844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceefcbb1dbff8ce0800000000000000
+      internalID: -1400624080871231801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 453.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e8faefd69bdba0800000000000000
+      internalID: -6063086584860187226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 453.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf9714f940199a0800000000000000
+      internalID: -6228191727631860772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 453.4
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f68e79b1ee78230800000000000000
+      internalID: 3641140626032455583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portraits_lady_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 300
+        height: 451.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d146cec47dc850800000000000000
+      internalID: 6398899077001631493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
