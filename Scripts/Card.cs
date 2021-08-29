@@ -13,7 +13,7 @@ public class Card : MonoBehaviour
     [SerializeField] Image _back;
     [SerializeField] RectTransform _backRect;
     [SerializeField] Image _whiteBackground;
-    bool _hasWhiteBackground = false;
+
     bool _revealed = false;
     public int Id { get; private set; }
     [SerializeField] CardAnimation _cardAnimation;
@@ -51,6 +51,7 @@ public class Card : MonoBehaviour
         _revealed = true;
     }
 
+    #region Init
     private void InitFace(Sprite face)
     {
         _face.sprite = face;
@@ -67,7 +68,6 @@ public class Card : MonoBehaviour
 
     private void InitWhiteBackground()
     {
-        _hasWhiteBackground = true;
         float s = CalculateScaleFactor(_whiteBackground);
         _whiteBackground.transform.localScale = new Vector3(s, s, s);
     }
@@ -80,5 +80,6 @@ public class Card : MonoBehaviour
         float ScaleYfactor = _nativeSize.rectTransform.rect.height / H;
         float ScaleFactor = ScaleXfactor > ScaleYfactor ? ScaleYfactor : ScaleXfactor;
         return ScaleFactor;
-    }
+    } 
+    #endregion
 }

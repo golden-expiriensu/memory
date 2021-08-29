@@ -1,0 +1,1502 @@
+fileFormatVersion: 2
+guid: 0f5943f98eb704b4c874cb0dead14596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3629152204679621842
+    second: sanyo_ukiyo_0
+  - first:
+      213: -3117243566319009192
+    second: sanyo_ukiyo_1
+  - first:
+      213: 1182855649399790139
+    second: sanyo_ukiyo_2
+  - first:
+      213: 4253512774426592636
+    second: sanyo_ukiyo_3
+  - first:
+      213: -5351150404644877899
+    second: sanyo_ukiyo_4
+  - first:
+      213: 9091749473549519109
+    second: sanyo_ukiyo_5
+  - first:
+      213: 3025127417006562660
+    second: sanyo_ukiyo_6
+  - first:
+      213: -8222040179855110714
+    second: sanyo_ukiyo_7
+  - first:
+      213: 3103082334988926026
+    second: sanyo_ukiyo_8
+  - first:
+      213: 8893900535694293072
+    second: sanyo_ukiyo_9
+  - first:
+      213: -351897908212249519
+    second: sanyo_ukiyo_10
+  - first:
+      213: -3031635174700941720
+    second: sanyo_ukiyo_11
+  - first:
+      213: -1709218940865799812
+    second: sanyo_ukiyo_12
+  - first:
+      213: 8053342008795537772
+    second: sanyo_ukiyo_13
+  - first:
+      213: -1005554487758577697
+    second: sanyo_ukiyo_14
+  - first:
+      213: -4991114866813116950
+    second: sanyo_ukiyo_15
+  - first:
+      213: -7538120818882271460
+    second: sanyo_ukiyo_16
+  - first:
+      213: -8074994999366468827
+    second: sanyo_ukiyo_17
+  - first:
+      213: 2498532911215488519
+    second: sanyo_ukiyo_18
+  - first:
+      213: -3918784731538757176
+    second: sanyo_ukiyo_19
+  - first:
+      213: 7473395351124353021
+    second: sanyo_ukiyo_20
+  - first:
+      213: 1042496356613852911
+    second: sanyo_ukiyo_21
+  - first:
+      213: -7627931794257093844
+    second: sanyo_ukiyo_22
+  - first:
+      213: 8741631312058003041
+    second: sanyo_ukiyo_23
+  - first:
+      213: 1764994417125314467
+    second: sanyo_ukiyo_24
+  - first:
+      213: -6950968800001070533
+    second: sanyo_ukiyo_25
+  - first:
+      213: 4223334435996519676
+    second: sanyo_ukiyo_26
+  - first:
+      213: 3843542287422925662
+    second: sanyo_ukiyo_27
+  - first:
+      213: -2870430879596271462
+    second: sanyo_ukiyo_28
+  - first:
+      213: 725778067818497925
+    second: sanyo_ukiyo_29
+  - first:
+      213: -3473684363465157228
+    second: sanyo_ukiyo_30
+  - first:
+      213: 4030569370897828959
+    second: sanyo_ukiyo_31
+  - first:
+      213: 8758379396072644657
+    second: sanyo_ukiyo_32
+  - first:
+      213: -1387358629821639171
+    second: sanyo_ukiyo_33
+  - first:
+      213: 92488424642784112
+    second: sanyo_ukiyo_34
+  - first:
+      213: 5161701484255759981
+    second: sanyo_ukiyo_35
+  - first:
+      213: -1735773430260458484
+    second: sanyo_ukiyo_36
+  - first:
+      213: -3260150762320087194
+    second: sanyo_ukiyo_37
+  - first:
+      213: 7496899600588327123
+    second: sanyo_ukiyo_38
+  - first:
+      213: -1883350320356579762
+    second: sanyo_ukiyo_39
+  - first:
+      213: 4788067634034456419
+    second: sanyo_ukiyo_40
+  - first:
+      213: -7148269687891428193
+    second: sanyo_ukiyo_41
+  - first:
+      213: -1660218956438262690
+    second: sanyo_ukiyo_42
+  - first:
+      213: -7887030137255446140
+    second: sanyo_ukiyo_43
+  - first:
+      213: 8192342161760993207
+    second: sanyo_ukiyo_44
+  - first:
+      213: 3760135572764113820
+    second: sanyo_ukiyo_45
+  - first:
+      213: 7109464977040579069
+    second: sanyo_ukiyo_46
+  - first:
+      213: -5972325195911849929
+    second: sanyo_ukiyo_47
+  - first:
+      213: -8990599283057463337
+    second: sanyo_ukiyo_48
+  - first:
+      213: -4802201523110572808
+    second: sanyo_ukiyo_49
+  - first:
+      213: 1354808965758760243
+    second: sanyo_ukiyo_50
+  - first:
+      213: -6351728137189192780
+    second: sanyo_ukiyo_51
+  - first:
+      213: 3631464462730088672
+    second: sanyo_ukiyo_52
+  - first:
+      213: 3240580781566820402
+    second: sanyo_ukiyo_53
+  - first:
+      213: 8554660051128749753
+    second: sanyo_ukiyo_54
+  - first:
+      213: 8591280259046224563
+    second: sanyo_ukiyo_55
+  - first:
+      213: -1561148975043675391
+    second: sanyo_ukiyo_56
+  - first:
+      213: -8793787884684725601
+    second: sanyo_ukiyo_57
+  - first:
+      213: -8799064687528725286
+    second: sanyo_ukiyo_58
+  - first:
+      213: -4338291144659482573
+    second: sanyo_ukiyo_59
+  - first:
+      213: -8041488531707644424
+    second: sanyo_ukiyo_60
+  - first:
+      213: -8060037055191366630
+    second: sanyo_ukiyo_61
+  - first:
+      213: -8590475458832610426
+    second: sanyo_ukiyo_62
+  - first:
+      213: -2281306160294299627
+    second: sanyo_ukiyo_63
+  - first:
+      213: 1912739142650877302
+    second: sanyo_ukiyo_64
+  - first:
+      213: -8309123011272667184
+    second: sanyo_ukiyo_65
+  - first:
+      213: -5226223715119591536
+    second: sanyo_ukiyo_66
+  - first:
+      213: 6664787826731990377
+    second: sanyo_ukiyo_67
+  - first:
+      213: 3792535242618886850
+    second: sanyo_ukiyo_68
+  - first:
+      213: -7694534582988980941
+    second: sanyo_ukiyo_69
+  - first:
+      213: 3487933440327169503
+    second: sanyo_ukiyo_70
+  - first:
+      213: 1718201829450965418
+    second: sanyo_ukiyo_71
+  - first:
+      213: 4178619154203061146
+    second: sanyo_ukiyo_72
+  - first:
+      213: 8221241260470412291
+    second: sanyo_ukiyo_73
+  - first:
+      213: -1089716384792407766
+    second: sanyo_ukiyo_74
+  - first:
+      213: 6042401893956051509
+    second: sanyo_ukiyo_75
+  - first:
+      213: 2263247580514632690
+    second: sanyo_ukiyo_76
+  - first:
+      213: -2468823354789194440
+    second: sanyo_ukiyo_77
+  - first:
+      213: -408530860978232746
+    second: sanyo_ukiyo_78
+  - first:
+      213: 9117128655801951685
+    second: sanyo_ukiyo_79
+  - first:
+      213: 787717277089229293
+    second: sanyo_ukiyo_80
+  - first:
+      213: -1955642595360091670
+    second: sanyo_ukiyo_81
+  - first:
+      213: -1949505755598213661
+    second: sanyo_ukiyo_82
+  - first:
+      213: 3602143413603060138
+    second: sanyo_ukiyo_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sanyo_ukiyo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2524
+        width: 288
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc21cbb3b65d5230800000000000000
+      internalID: 3629152204679621842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2524
+        width: 288
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520f270e735db4d0800000000000000
+      internalID: -3117243566319009192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2524
+        width: 289
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad90332f85a6010800000000000000
+      internalID: 1182855649399790139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2523
+        width: 286
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9447ffe05ecb5b0800000000000000
+      internalID: -5351150404644877899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_5
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2525
+        width: 287
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50983cdd9f16c2e70800000000000000
+      internalID: 9091749473549519109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_6
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2526
+        width: 290
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d98f2ab596bf920800000000000000
+      internalID: 3025127417006562660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_7
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 2527
+        width: 287
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4fb6c40275ed80800000000000000
+      internalID: -8222040179855110714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_8
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2526
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cfdcd51fc501b20800000000000000
+      internalID: 3103082334988926026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2110
+        width: 287
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c4ec787becd1bf0800000000000000
+      internalID: -351897908212249519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2110
+        width: 287
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efe53fed77de5d0800000000000000
+      internalID: -3031635174700941720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2107
+        width: 290
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c612df873e733cf60800000000000000
+      internalID: 8053342008795537772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_14
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2109
+        width: 286
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf99d2658d8b02f0800000000000000
+      internalID: -1005554487758577697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_17
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2108
+        width: 289
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb4bbc4dadfef80800000000000000
+      internalID: -8074994999366468827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_18
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2109
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2f98e1729ca220800000000000000
+      internalID: 2498532911215488519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_19
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2108
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9686d9c0ead99c0800000000000000
+      internalID: -3918784731538757176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_20
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2107
+        width: 289
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff92d1e975d6b760800000000000000
+      internalID: 7473395351124353021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1678
+        width: 291
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aec1744b2398f90800000000000000
+      internalID: -6950968800001070533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1677
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4f391b4c4c9a30800000000000000
+      internalID: 4223334435996519676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_29
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1676
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587471eae4b721a00800000000000000
+      internalID: 725778067818497925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_30
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1676
+        width: 286
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49594ddc97efacfc0800000000000000
+      internalID: -3473684363465157228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_32
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1679
+        width: 289
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a20728a30c8970800000000000000
+      internalID: 8758379396072644657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_33
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1679
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5986d3dac1fbce0800000000000000
+      internalID: -1387358629821639171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_35
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1679
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ecbade62c02a740800000000000000
+      internalID: 5161701484255759981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_36
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1682
+        width: 288
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c93cef24b49e7e0800000000000000
+      internalID: -1735773430260458484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1258
+        width: 286
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3673b271522a27240800000000000000
+      internalID: 4788067634034456419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1258
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ca024c7a7b5f8e0800000000000000
+      internalID: -1660218956438262690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_43
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1257
+        width: 287
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b610a0e3ab8290800000000000000
+      internalID: -7887030137255446140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1259
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf383e8acb01b170800000000000000
+      internalID: 8192342161760993207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_45
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1257
+        width: 286
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3ae1a16fae2430800000000000000
+      internalID: 3760135572764113820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_46
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1256
+        width: 286
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99593aab4e9a260800000000000000
+      internalID: 7109464977040579069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_47
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1256
+        width: 286
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381f8680e90e1da0800000000000000
+      internalID: -5972325195911849929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_48
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1257
+        width: 286
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df6a771699fa3380800000000000000
+      internalID: -8990599283057463337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 833
+        width: 287
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335b096839f3dc210800000000000000
+      internalID: 1354808965758760243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 833
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0cf089e02ad7a0800000000000000
+      internalID: -6351728137189192780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_52
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 835
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05b7340bd856230800000000000000
+      internalID: 3631464462730088672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_53
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 834
+        width: 286
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308f3f2d0bd8fc20800000000000000
+      internalID: 3240580781566820402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_54
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 835
+        width: 287
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be01c1fdf148b670800000000000000
+      internalID: 8554660051128749753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_55
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 835
+        width: 287
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b64680eb5a3770800000000000000
+      internalID: 8591280259046224563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_56
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 837
+        width: 287
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7e0d474fa55ae0800000000000000
+      internalID: -1561148975043675391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_58
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 836
+        width: 289
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ba20494173e580800000000000000
+      internalID: -8799064687528725286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 287
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1445d0900ff42090800000000000000
+      internalID: -8060037055191366630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 421
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4290a51088c880800000000000000
+      internalID: -8590475458832610426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_63
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 421
+        width: 285
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187fb3522c2750e0800000000000000
+      internalID: -2281306160294299627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_64
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 421
+        width: 285
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d0b9bd1a6b8a10800000000000000
+      internalID: 1912739142650877302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_65
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 422
+        width: 278
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df811615a010bc80800000000000000
+      internalID: -8309123011272667184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_66
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 424
+        width: 279
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f03978839b877b0800000000000000
+      internalID: -5226223715119591536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_67
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 417
+        width: 285
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d35b387351e7c50800000000000000
+      internalID: 6664787826731990377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_68
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 416
+        width: 285
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad27e95bac1a430800000000000000
+      internalID: 3792535242618886850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 287
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dbbfc6095873590800000000000000
+      internalID: -7694534582988980941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_70
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 4
+        width: 288
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd538eeebf0a76030800000000000000
+      internalID: 3487933440327169503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_71
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 7
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e9d0e57748d710800000000000000
+      internalID: 1718201829450965418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_72
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 4
+        width: 286
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9baae14bff6df930800000000000000
+      internalID: 4178619154203061146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_73
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4
+        width: 286
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304af1f4e57b71270800000000000000
+      internalID: 8221241260470412291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanyo_ukiyo_74
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1
+        width: 287
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21968ab8bc80e0f0800000000000000
+      internalID: -1089716384792407766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
