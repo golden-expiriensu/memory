@@ -66,6 +66,7 @@ public abstract class DBManager : MonoBehaviour
             "PortraitsLady INTEGER," +
             "GreekMythology INTEGER," +
             "Steampunk INTEGER," +
+            "BristolPack INTEGER," +
             "SanyoUkiyo INTEGER," +
             "Vizago INTEGER);";
 
@@ -90,8 +91,8 @@ public abstract class DBManager : MonoBehaviour
         dbcmd.CommandText = query1;
         dbcmd.ExecuteNonQuery();
 
-        string query2 = "INSERT INTO skins(Current, Standart, Vector, SanyoUkiyo, PulpPinup, MorandBail, GreekMythology, Steampunk, PortraitsLady, Fingi, Vizago)" +
-            "VALUES('Standart', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);";
+        string query2 = "INSERT INTO skins(Current, Standart, Vector, SanyoUkiyo, BristolPack, PulpPinup, MorandBail, GreekMythology, Steampunk, PortraitsLady, Fingi, Vizago)" +
+            "VALUES('Standart', 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);";
         dbcmd.CommandText = query2;
 
         dbcmd.ExecuteNonQuery();

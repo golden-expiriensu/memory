@@ -69,6 +69,7 @@ public class Card : MonoBehaviour
     private void InitWhiteBackground()
     {
         float s = CalculateScaleFactor(_whiteBackground);
+        _whiteBackground.enabled = true;
         _whiteBackground.transform.localScale = new Vector3(s, s, s);
     }
 

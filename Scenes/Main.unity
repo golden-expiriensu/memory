@@ -674,6 +674,7 @@ MonoBehaviour:
   - {fileID: 4007161669329146763, guid: 9aa474aa37720e34885c6c316e11129b, type: 3}
   - {fileID: 4007161669329146763, guid: 026d677dfa6c1b74a942ec683f113991, type: 3}
   - {fileID: 4007161669329146763, guid: 0c7d4e06c378b6c4eb6f84b300d2b2d0, type: 3}
+  - {fileID: 4007161669329146763, guid: 89091bee8c4236943b7a334ff9e22b50, type: 3}
   _cardsGFX: {fileID: 4007161669329146763, guid: 47d2f61d4bbb8854f85f136a3997c983,
     type: 3}
   _background: {fileID: 2100000, guid: 33924662b4911b6489ef001eb8389e38, type: 2}
@@ -2475,7 +2476,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1364556880}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 

@@ -32,6 +32,7 @@ public class TableSkins : DBManager
         GreekMythology,
         Steampunk,
         SanyoUkiyo,
+        BristolPack,
     }
     Dictionary<SkinName, string> _skinToDB = new Dictionary<SkinName, string>
     {
@@ -45,6 +46,7 @@ public class TableSkins : DBManager
         {SkinName.GreekMythology, "GreekMythology" },
         {SkinName.Steampunk, "Steampunk" },
         {SkinName.SanyoUkiyo, "SanyoUkiyo" },
+        {SkinName.BristolPack, "BristolPack" },
     };
     Dictionary<string, SkinName> _DBToskin = new Dictionary<string, SkinName>
     {
@@ -58,6 +60,7 @@ public class TableSkins : DBManager
         { "GreekMythology", SkinName.GreekMythology},
         { "Steampunk", SkinName.Steampunk},
         { "SanyoUkiyo", SkinName.SanyoUkiyo},
+        { "BristolPack", SkinName.BristolPack},
     };
 
     public void UnlockSkin(SkinName name)

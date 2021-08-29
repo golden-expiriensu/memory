@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 64a089d108c4b254da3462f8d5737c8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3980132650250098279
+    second: bristol_pack_0
+  - first:
+      213: -1561965250321045095
+    second: bristol_pack_1
+  - first:
+      213: 3424926602800352748
+    second: bristol_pack_2
+  - first:
+      213: 6269297115494849409
+    second: bristol_pack_3
+  - first:
+      213: -2081108767197957154
+    second: bristol_pack_4
+  - first:
+      213: -5691925170415761538
+    second: bristol_pack_5
+  - first:
+      213: -8333034772894253717
+    second: bristol_pack_6
+  - first:
+      213: 5760391137120354764
+    second: bristol_pack_7
+  - first:
+      213: 49879952114350103
+    second: bristol_pack_8
+  - first:
+      213: 6344229742367037171
+    second: bristol_pack_9
+  - first:
+      213: -2340036410080335232
+    second: bristol_pack_10
+  - first:
+      213: 3621504735194019402
+    second: bristol_pack_11
+  - first:
+      213: -4500003279455440431
+    second: bristol_pack_12
+  - first:
+      213: 3508683882617806267
+    second: bristol_pack_13
+  - first:
+      213: 261006198987068777
+    second: bristol_pack_14
+  - first:
+      213: -6806070329771404872
+    second: bristol_pack_15
+  - first:
+      213: 2684496845169976943
+    second: bristol_pack_16
+  - first:
+      213: 6923455161716053324
+    second: bristol_pack_17
+  - first:
+      213: -822170541001580454
+    second: bristol_pack_18
+  - first:
+      213: 2294403661232370028
+    second: bristol_pack_19
+  - first:
+      213: 8734305283638159340
+    second: bristol_pack_20
+  - first:
+      213: -244159236621976518
+    second: bristol_pack_21
+  - first:
+      213: 4133295591903473744
+    second: bristol_pack_22
+  - first:
+      213: -5221468441739745910
+    second: bristol_pack_23
+  - first:
+      213: -173280578775680792
+    second: bristol_pack_24
+  - first:
+      213: -403866206737646906
+    second: bristol_pack_25
+  - first:
+      213: -5597984770896575010
+    second: bristol_pack_26
+  - first:
+      213: 249923851085119736
+    second: bristol_pack_27
+  - first:
+      213: -4667489987908613948
+    second: bristol_pack_28
+  - first:
+      213: 3960732418965624881
+    second: bristol_pack_29
+  - first:
+      213: 1766133337567989137
+    second: bristol_pack_30
+  - first:
+      213: 8957661902424740248
+    second: bristol_pack_31
+  - first:
+      213: 2929124611412166239
+    second: bristol_pack_32
+  - first:
+      213: -5232265542074545142
+    second: bristol_pack_33
+  - first:
+      213: 1867434279693335831
+    second: bristol_pack_34
+  - first:
+      213: 2569326990624079120
+    second: bristol_pack_35
+  - first:
+      213: 3588051806487284598
+    second: bristol_pack_36
+  - first:
+      213: 5452000307166653247
+    second: bristol_pack_37
+  - first:
+      213: 2832978387939249199
+    second: bristol_pack_38
+  - first:
+      213: -81154815945402529
+    second: bristol_pack_39
+  - first:
+      213: -5747919519665564156
+    second: bristol_pack_40
+  - first:
+      213: 6441383887536674131
+    second: bristol_pack_41
+  - first:
+      213: 4892216341539480560
+    second: bristol_pack_42
+  - first:
+      213: 7381891560226191354
+    second: bristol_pack_43
+  - first:
+      213: -1344995541776007686
+    second: bristol_pack_44
+  - first:
+      213: 811127903832601901
+    second: bristol_pack_45
+  - first:
+      213: -442865363055086714
+    second: bristol_pack_46
+  - first:
+      213: 4285460484335422679
+    second: bristol_pack_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bristol_pack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2099
+        width: 298
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a8e6317ab3c8c0800000000000000
+      internalID: -3980132650250098279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2105
+        width: 293
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992c1761e8c25ae0800000000000000
+      internalID: -1561965250321045095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2100
+        width: 293
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced43b56998c78f20800000000000000
+      internalID: 3424926602800352748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 2106
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9378a284010750800000000000000
+      internalID: 6269297115494849409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2093
+        width: 304
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f6383a9a6e13e0800000000000000
+      internalID: -2081108767197957154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2106
+        width: 291
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778341f6383201b0800000000000000
+      internalID: -5691925170415761538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_6
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2103
+        width: 291
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df8ac360d1b5c80800000000000000
+      internalID: -8333034772894253717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_7
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2105
+        width: 299
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc10e57283501ff40800000000000000
+      internalID: 5760391137120354764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1678
+        width: 290
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718703b5d8531b000800000000000000
+      internalID: 49879952114350103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1680
+        width: 289
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f65147665b3b0850800000000000000
+      internalID: 6344229742367037171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1690
+        width: 294
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6ea77845868fd0800000000000000
+      internalID: -2340036410080335232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1690
+        width: 293
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4672ad7e5b224230800000000000000
+      internalID: 3621504735194019402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_12
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1691
+        width: 290
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d137fffbd6cc81c0800000000000000
+      internalID: -4500003279455440431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_13
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1686
+        width: 293
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9294c66951b030800000000000000
+      internalID: 3508683882617806267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_14
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1687
+        width: 284
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659cce41c74f9300800000000000000
+      internalID: 261006198987068777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_15
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1691
+        width: 292
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b156ad581bfb81a0800000000000000
+      internalID: -6806070329771404872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1260
+        width: 294
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66630958af314520800000000000000
+      internalID: 2684496845169976943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1263
+        width: 294
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c451e6c99cd051060800000000000000
+      internalID: 6923455161716053324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_18
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1261
+        width: 293
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506fcebf301794f0800000000000000
+      internalID: -822170541001580454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_19
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1260
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617c1f39fb57df10800000000000000
+      internalID: 2294403661232370028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_20
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1272
+        width: 287
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e11f016c763970800000000000000
+      internalID: 8734305283638159340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_21
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1272
+        width: 295
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3488c7729c9cf0800000000000000
+      internalID: -244159236621976518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1276
+        width: 295
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0503813117a6c5930800000000000000
+      internalID: 4133295591903473744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_23
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1277
+        width: 299
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a034ed1e9987b0800000000000000
+      internalID: -5221468441739745910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 843
+        width: 289
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8f99f4b32689df0800000000000000
+      internalID: -173280578775680792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 850
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca3e9223dd256af0800000000000000
+      internalID: -403866206737646906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 847
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c9a0a286ff42b0800000000000000
+      internalID: -5597984770896575010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_27
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 834
+        width: 290
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f083dc1b68e77300800000000000000
+      internalID: 249923851085119736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 859
+        width: 291
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c30ed59eb93fb0800000000000000
+      internalID: -4667489987908613948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_29
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 860
+        width: 297
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d1d2762957f630800000000000000
+      internalID: 3960732418965624881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_30
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 860
+        width: 295
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d07b3c9e0928810800000000000000
+      internalID: 1766133337567989137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_31
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 855
+        width: 294
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89193106a02005c70800000000000000
+      internalID: 8957661902424740248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 297
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56831e905756a820800000000000000
+      internalID: 2929124611412166239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 422
+        width: 293
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c412216324367b0800000000000000
+      internalID: -5232265542074545142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_34
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 420
+        width: 299
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d328255957ae910800000000000000
+      internalID: 1867434279693335831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_35
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 423
+        width: 294
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db8fbf84518a320800000000000000
+      internalID: 2569326990624079120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_36
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 443
+        width: 293
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8f519b125bc130800000000000000
+      internalID: 3588051806487284598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_37
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 447
+        width: 296
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2df7b46569ab40800000000000000
+      internalID: 5452000307166653247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_38
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 447
+        width: 293
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c4a7585d2c05720800000000000000
+      internalID: 2832978387939249199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 295
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5713c7ff1eafdef0800000000000000
+      internalID: -81154815945402529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 292
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406dcc096a94b30b0800000000000000
+      internalID: -5747919519665564156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_41
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 4
+        width: 293
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555c8e8484646950800000000000000
+      internalID: 6441383887536674131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_42
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 292
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f362d1b7d4a4e340800000000000000
+      internalID: 4892216341539480560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_43
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 28
+        width: 285
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77cb9534fb17660800000000000000
+      internalID: 7381891560226191354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 28
+        width: 293
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf4fb4ead955de0800000000000000
+      internalID: -1344995541776007686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_45
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 33
+        width: 293
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25795fe784b14b00800000000000000
+      internalID: 811127903832601901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_46
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 34
+        width: 288
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f6c77c40aad9f0800000000000000
+      internalID: -442865363055086714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bristol_pack_47
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 447
+        width: 299
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc49cbea93097b30800000000000000
+      internalID: 4285460484335422679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

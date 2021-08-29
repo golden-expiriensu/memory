@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class StoreSkin : MonoBehaviour
@@ -44,10 +45,17 @@ public class StoreSkin : MonoBehaviour
 
     private void UpdateUnavailablePanel() => _unavailablePanel.SetActive(!TableSkins.Instance.IsSkinAvailable(_skin.SkinName));
 
-    public void SetSkin() => TableSkins.Instance.SetSkin(_skin.SkinName);
+    public void SetSkin(bool goToGame = true)
+    {
+        TableSkins.Instance.SetSkin(_skin.SkinName);
+        if(goToGame)
+            SceneManager.LoadScene("Main");
+    }
+
     public void UnlockSkin()
     {
         TableSkins.Instance.UnlockSkin(_skin.SkinName);
         UpdateUnavailablePanel();
+        SetSkin(false);
     }
 }
